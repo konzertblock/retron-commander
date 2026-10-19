@@ -12,6 +12,18 @@ Retron Commander is an open source fan project: a native macOS file manager insp
 - **Themes and controls**: choose the native-style default or the DOS-inspired Norton Commander theme; configure function-key actions and whether the Mac function keys send F1–F12 directly while the app is active.
 - **Disk map**: visualize folder sizes, open a folder in Retron Commander, or reveal it in Finder.
 
+## Screenshots
+
+The screenshots use synthetic demo files and contain no personal folder names or mounted-volume labels.
+
+### Default theme
+
+![Retron Commander with the native-style theme and two sample file panels](Screenshots/RetronCommander-default.png)
+
+### Norton Commander theme
+
+![Retron Commander with the blue DOS-inspired Norton Commander theme](Screenshots/RetronCommander-norton-commander.png)
+
 ## Requirements
 
 - macOS 14 or later
