@@ -1,0 +1,13 @@
+.build/
+.DS_Store
+
+# Local build products
+.build-*/
+
+# Local analysis notes are not part of the public repository.
+REVERSE_ENGINEERING.md
+PARITY.md
+VERIFICATION.md
+SOURCES.md
+Scripts/DecompileBinary.java
+Sources/RetronCommander/Resources/Toolbars/
